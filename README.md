@@ -3,6 +3,6 @@ This Project serves as the final project for my C-Programming course. The goal o
 
 An example of a sample Input and Output of the Image Generator is below:
 
-![alt text](https://raw.githubusercontent.com/APandher/ImageGenerator/branch/me.ppm)
+![Original](Images/me.png)
 
-![alt text](https://raw.githubusercontent.com/APandher/ImageGenerator/branch/me2.ppm)
+![Recreated](Images/me2.png)
